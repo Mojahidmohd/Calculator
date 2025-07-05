@@ -39,7 +39,7 @@ To create an HTML interface for a calculator that uses AWS Lambda, you need:
 	   create stage.
 	   
 	  
-	CORS:
+    e/ CORS:
 
       In the left nav, choose “CORS”.
 
@@ -47,7 +47,7 @@ To create an HTML interface for a calculator that uses AWS Lambda, you need:
 	    Select * for all and method POST, and Max Age 300  and no for credential.
 	  
 
-    d/ Deploy:
+    f/ Deploy:
 
         Click “Deploy” → note the Invoke URL (e.g. https://abcd1234.execute-api.us-east-1.amazonaws.com).
 
