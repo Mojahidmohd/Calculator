@@ -1,6 +1,6 @@
 # Calculator
-Simple project to deploy HTML Calculator with AWS Lambda via API Gateway, and also deployed it using Terraform.
-
+Simple project to deploy HTML Calculator with AWS Lambda via API Gateway, and also deployed it using [Terraform](Terraform)
+#
 I have used ChatGPT to generate codes for HTML and AWS Lambda function (Python), then hosted the HTML page using AWS Amplify. 
 
 ## Cost
@@ -27,8 +27,7 @@ Create an HTML interface for a calculator that uses AWS Lambda, you need:
        A. Go to AWS Lambda, create a new function, paste the Python code.
 
        B. Add API Gateway trigger, use HTTP API or REST API.
- **************** 
- 
+  
 1: for HTTP API
   
    a/ Open the AWS Console → API Gateway → Create API → HTTP API.
@@ -270,9 +269,9 @@ Create an HTML interface for a calculator that uses AWS Lambda, you need:
   **********************************   
     ..... Done ......
     
-*******************************************************************************
-Use Terraform:
-*******************************************************************************
+## Terraform
+
+
 ✅ What This Setup Will Do
 
 1. Create an AWS Lambda function (Python 3.13) to evaluate math expressions. 
