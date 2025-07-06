@@ -1,13 +1,13 @@
 # Calculator
 Simple project to deploy HTML Calculator with AWS Lambda via API Gateway, and also deployed it using Terraform.
 
-I have used the ChatGPT to genrate codes for HTML and AWS Lambda function (Python), then host the HTML page using AWS Amplify. 
+I have used ChatGPT to generate codes for HTML and AWS Lambda function (Python), then hosted the HTML page using AWS Amplify. 
 
 ## Cost
-All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  Outside of the Free Tier, there may be small charges associated with building the app (less than $1 USD), but charges will continue to incur if you leave the app running.  Please see the end of the YouTube video for instructions on how to delete all resources used in the video.
+All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/). After completing the project, it is better to delete all resources used.
 
 ## The Application Codes
-The application codes is here in this repository.
+The application codes are here in this repository.
 
 This is the diagram.
 
