@@ -1,6 +1,20 @@
 # Calculator
-Deploy HTML Calculator with AWS Lambda via API Gateway
-To create an HTML interface for a calculator that uses AWS Lambda, you need:
+Deploy HTML Calculator with AWS Lambda via API Gateway.
+
+I have used the ChatGPT to create codes for HTML and Lambda function (Python), then host the HTML page using Amplify.  
+
+...This is the diagram.
+Amazon Cloud
+AWS Amplify
+Amazon API Gateway
+Lambda Function
+
+
+
+
+
+...
+Create an HTML interface for a calculator that uses AWS Lambda, you need:
 
 1. An HTML + JavaScript frontend that sends input (expression or values) to an API Gateway endpoint.
 
