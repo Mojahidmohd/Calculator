@@ -1,5 +1,5 @@
 # Calculator
-Simple project to deploy HTML Calculator with AWS Lambda via API Gateway, and also deployed it using [Terraform](#terraform)
+A simple project to deploy HTML Calculator with AWS Lambda via API Gateway, and also deployed using [Terraform](#terraform).
 #
 I have used ChatGPT to generate codes for HTML and AWS Lambda function (Python), then hosted the HTML page using AWS Amplify. 
 
