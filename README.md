@@ -28,7 +28,7 @@ Create an HTML interface for a calculator that uses AWS Lambda, you need:
 
        B. Add API Gateway trigger, use HTTP API or REST API.
   
-1: for HTTP API
+1: For HTTP API
   
    a/ Open the AWS Console → API Gateway → Create API → HTTP API.
 
@@ -47,7 +47,7 @@ Create an HTML interface for a calculator that uses AWS Lambda, you need:
        Attach your Lambda integration to this route.
 	
 
-   e/ stages
+   e/ Stages
     
        create stage.
 	   
