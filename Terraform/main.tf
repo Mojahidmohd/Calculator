@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-east-1" # Change to your region
+  region = "us-east-1" # Change to your region and add credentials
 }
 
 resource "aws_iam_role" "lambda_exec_role" {
@@ -78,3 +78,4 @@ resource "aws_apigatewayv2_stage" "stage" {
 output "api_endpoint" {
   value = aws_apigatewayv2_api.api.api_endpoint
 }
+
