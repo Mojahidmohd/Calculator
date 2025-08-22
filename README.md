@@ -11,7 +11,7 @@ The application codes are here in this repository.
 
 This is the diagram.
 
-![Clock diagram](./Clock Diagram.png)
+![Clock diagram](https://github.com/user-attachments/assets/38e3100c-aa40-4229-b0d8-b1a29c928b88)
 
 Create an HTML interface for a calculator that uses AWS Lambda, you need:
 
